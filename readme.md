@@ -1,6 +1,9 @@
 # bayesian statistics
 2020-2 YBIGTA 베이즈통계 스터디
 
+# Participants
+김주은 박준민 이현정 <br><br>
+
 # materials
 week 1 ~ 4: Coursera - Bayesian Statistics: Techniques and Models
 - https://www.coursera.org/learn/bayesian-statistics
